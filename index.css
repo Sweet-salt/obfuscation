@@ -1,0 +1,14 @@
+body h1{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body .text{
+    margin-top: 20px;
+    text-align: center;
+}
+
+body .btn{
+    text-align: center;
+}
